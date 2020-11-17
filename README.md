@@ -1,2 +1,2 @@
 # GolangSandbox
-This is where all of my random Go applications live.
+It's Go time :D 
